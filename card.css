@@ -1,0 +1,18 @@
+.card{
+    border:1px solid #000000;
+    background-color: #ffab2c;
+    width: 268px;
+    height: 474px;
+}
+.card-imagem{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    height: auto;
+}
+.card-description{
+    justify-content: center ;
+    margin:auto;
+    height: auto;
+    border: 50;
+}
