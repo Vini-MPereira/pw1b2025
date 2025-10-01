@@ -1,8 +1,10 @@
 .card{
     border:1px solid #000000;
-    background-color: #ffab2c;
+    background-color: #ffffff;
     width: 268px;
     height: 474px;
+    margin: 0;
+    padding: 0;
 }
 .card-imagem{
     display: flex;
@@ -15,4 +17,21 @@
     margin:auto;
     height: auto;
     border: 50;
+    padding: 0px;
+}
+.card-star{
+    display: flex;
+    color: rgb(255, 136, 0);
+    justify-content: end;
+}
+.span{
+    color: #000000;
+}
+.card-buttom-buy{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    width: 210px;
+    height: 100px;
+    background: rgb(255, 101, 0);
 }
