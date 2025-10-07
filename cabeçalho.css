@@ -1,0 +1,28 @@
+.body{
+    display: flex;
+}
+
+.branco{
+   display: flex;
+    background-color: white;
+    justify-content: center;
+    height: 100px;
+}
+.imagem{
+    display: flex;
+    justify-content: flex-start;
+    height: auto;
+}
+.portais{
+    
+    padding:20px;
+    justify-content:center;
+    background-color: rgb(172, 2, 2);
+    color: white;
+    height: 15px;
+}
+a{
+    display: ;
+    margin-left: 30px;
+    justify-content: flex-start;
+}
