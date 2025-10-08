@@ -1,0 +1,15 @@
+body{
+background-color: black;
+border: 0;
+}
+.cabeçalho{
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+.imagem{
+ text-align: right;
+}
+a{
+    margin-left: 20px;
+}
